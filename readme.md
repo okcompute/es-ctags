@@ -1,3 +1,5 @@
+## Note: I don't use and maintain this package anymore. ES support has evolved and I'm now using Unitiversal Ctags (https://ctags.io) for my development requirements.  
+
 # es-ctags
 
 [![](https://img.shields.io/travis/okcompute/es-ctags.svg)](https://travis-ci.org/okcompute/es-ctags)
